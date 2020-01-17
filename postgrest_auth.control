@@ -1,0 +1,4 @@
+# postgrest-auth extension
+comment = 'Authentication functionality for PostgREST'
+default_version = '0.1'
+relocatable = false
